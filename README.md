@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brunky93
-- 👀 I’m interested in programming and html5
-- 🌱 I’m currently learning python
+- 👀 I’m interested in python and html5
+- 🌱 I've developed my first website using python.
 - 💞️ I’m looking to collaborate on websites and apps
 - 📫 How to reach me brunky93@gmail.com
 
