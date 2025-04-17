@@ -17,7 +17,7 @@
 You can explore my personal portfolio here:  
 🌐 [Brunky93](https://brunky93.github.io)
 
-This site presents one of my latest projects, combining web development techniques with content-oriented design. It also showcases how I apply automation and data workflows to manage and update the site efficiently.
+This site presents one of my latest projects, combining web development techniques with content-oriented design. It also showcases how I apply automation and data workflows to manage day to day tasks.
 
 ## Projects
 
